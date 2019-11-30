@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+这家伙很懒
 
-### More Information
+### 联系我
 
-A place to include any other types of information that you'd like to include about yourself.
+- Email: huzhiwei AT outlook DOT com
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- Telegram: [@ZhiweiHu](http://t.me/ZhiweiHu)
